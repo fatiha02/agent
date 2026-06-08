@@ -1,0 +1,204 @@
+{
+  "node": {
+    "4036fc19734ecb7a3d3827c38e17abfa0ccae2ac62": {
+      "workers": {
+        "app/(public)/courses/[courseId]/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cenrollment.actions.js%22%2C%5B%5B%224036fc19734ecb7a3d3827c38e17abfa0ccae2ac62%22%2C%22enrollInCourseAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(public)/courses/[courseId]/page": "action-browser"
+      }
+    },
+    "40895ead5104d8e72f8151f58e48e409fc3c9f5027": {
+      "workers": {
+        "app/(auth)/register/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cauth.actions.js%22%2C%5B%5B%2240895ead5104d8e72f8151f58e48e409fc3c9f5027%22%2C%22registerAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(auth)/register/page": "action-browser"
+      }
+    },
+    "402e352e57f94f7f5d60c156da12a17e7854dabb39": {
+      "workers": {
+        "app/(public)/courses/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/instructor/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(public)/courses/page": "action-browser",
+        "app/instructor/dashboard/page": "rsc"
+      }
+    },
+    "403b73fafacdf8785465cedcf78bb853cf46a7ce10": {
+      "workers": {
+        "app/(public)/courses/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/instructor/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(public)/courses/page": "action-browser",
+        "app/instructor/dashboard/page": "rsc"
+      }
+    },
+    "4084aca0bc9a259faba11f8d129961a7bb44e4f74f": {
+      "workers": {
+        "app/(public)/courses/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/instructor/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(public)/courses/page": "action-browser",
+        "app/instructor/dashboard/page": "rsc"
+      }
+    },
+    "60c5157e80009a713ffef154eee86424999e185ca6": {
+      "workers": {
+        "app/(public)/courses/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/instructor/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Ccourse.actions.js%22%2C%5B%5B%22402e352e57f94f7f5d60c156da12a17e7854dabb39%22%2C%22submitCourseForReviewAction%22%5D%2C%5B%22403b73fafacdf8785465cedcf78bb853cf46a7ce10%22%2C%22deleteCourseAction%22%5D%2C%5B%224084aca0bc9a259faba11f8d129961a7bb44e4f74f%22%2C%22createCourseAction%22%5D%2C%5B%2260c5157e80009a713ffef154eee86424999e185ca6%22%2C%22updateCourseAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(public)/courses/page": "action-browser",
+        "app/instructor/dashboard/page": "rsc"
+      }
+    },
+    "00190bf34ce2629e639518421ba256df3d870f07c4": {
+      "workers": {
+        "app/admin/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/payments/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/dashboard/page": "rsc",
+        "app/admin/payments/page": "rsc"
+      }
+    },
+    "0038db7605f7902cb2d0a18366fcb5b0b088633d83": {
+      "workers": {
+        "app/admin/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/payments/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/dashboard/page": "rsc",
+        "app/admin/payments/page": "rsc"
+      }
+    },
+    "00cd786292fa4b91c3e555c6fccf886475f0d3d018": {
+      "workers": {
+        "app/admin/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/payments/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/dashboard/page": "rsc",
+        "app/admin/payments/page": "rsc"
+      }
+    },
+    "00f53d74e486ac8f230be8a9e356319ba1f4548102": {
+      "workers": {
+        "app/admin/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/payments/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/dashboard/page": "rsc",
+        "app/admin/payments/page": "rsc"
+      }
+    },
+    "40246f6c254543dc13c21300a84b1463b20965f465": {
+      "workers": {
+        "app/admin/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/payments/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/dashboard/page": "rsc",
+        "app/admin/payments/page": "rsc"
+      }
+    },
+    "605db1812103435e369b11f85d5b8fcc08077f3412": {
+      "workers": {
+        "app/admin/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/payments/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/dashboard/page": "rsc",
+        "app/admin/payments/page": "rsc"
+      }
+    },
+    "6097c09522365c4692cb9e8b688106b2e6cb651f73": {
+      "workers": {
+        "app/admin/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/admin/payments/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Csaich%5C%5COneDrive%5C%5CDesktop%5C%5CAlfa%20learninG%5C%5Csrc%5C%5Cserver-actions%5C%5Cadmin.actions.js%22%2C%5B%5B%2200190bf34ce2629e639518421ba256df3d870f07c4%22%2C%22getAllUsersAction%22%5D%2C%5B%220038db7605f7902cb2d0a18366fcb5b0b088633d83%22%2C%22getAdminStatsAction%22%5D%2C%5B%2200cd786292fa4b91c3e555c6fccf886475f0d3d018%22%2C%22getAllCoursesAdminAction%22%5D%2C%5B%2200f53d74e486ac8f230be8a9e356319ba1f4548102%22%2C%22getAllEnrollmentsAdminAction%22%5D%2C%5B%2240246f6c254543dc13c21300a84b1463b20965f465%22%2C%22approveCourseAction%22%5D%2C%5B%22605db1812103435e369b11f85d5b8fcc08077f3412%22%2C%22rejectCourseAction%22%5D%2C%5B%226097c09522365c4692cb9e8b688106b2e6cb651f73%22%2C%22updateUserStatusAction%22%5D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/admin/dashboard/page": "rsc",
+        "app/admin/payments/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "PsF4IqxDK/pMiGBRj6VBIfk8EnzsYIjX+qdcFvDWQZw="
+}
