@@ -1,4 +1,3 @@
-# 𝓐𝓵𝓯𝓪𝓛𝓮𝓪𝓻𝓷 – 𝓐𝓘-𝓟𝓸𝔀𝓮𝓻𝓮𝓭 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓜𝓪𝓷𝓪𝓰𝓮𝓶𝓮𝓷𝓽 𝓢𝔂𝓼𝓽𝓮𝓶 
  
 
 An AI-powered Learning Management System (LMS) built to enhance online education through intelligent automation, personalized learning support, and efficient course management.
