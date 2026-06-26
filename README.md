@@ -1,5 +1,3 @@
- 
-
 An AI-powered Learning Management System (LMS) built to enhance online education through intelligent automation, personalized learning support, and efficient course management.
 
 ## Technologies
