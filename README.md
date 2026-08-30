@@ -5,7 +5,7 @@ An AI-powered Learning Management System (LMS) built to enhance online education
 * Next.js 15
 * React 19
 * Node.js
-* MongoDB
+* MongoDBa
 * Google Gemini 2.5 Flash API
 * Stripe
 
